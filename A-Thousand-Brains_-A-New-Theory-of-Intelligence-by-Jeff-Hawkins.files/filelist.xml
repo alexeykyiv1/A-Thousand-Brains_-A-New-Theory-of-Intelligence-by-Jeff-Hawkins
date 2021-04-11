@@ -1,6 +1,6 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
  <o:MainFile
-  HRef="../A-Thousand-Brains_-A-New-Theory-of-Intelligence-by-Jeff-Hawkins.htm"/>
+  HRef="../A-Thousand-Brains_-A-New-Theory-of-Intelligence-by-Jeff-Hawkins.html"/>
  <o:File HRef="item0001.xml"/>
  <o:File HRef="props002.xml"/>
  <o:File HRef="themedata.thmx"/>
@@ -17,6 +17,6 @@
  <o:File HRef="image010.jpg"/>
  <o:File HRef="image011.png"/>
  <o:File HRef="image012.jpg"/>
- <o:File HRef="header.htm"/>
+ <o:File HRef="header.html"/>
  <o:File HRef="filelist.xml"/>
 </xml>
